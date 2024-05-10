@@ -1,0 +1,5 @@
+texte,sentiment
+"J'adore ce film ! C'est le meilleur que j'ai jamais vu !",positif
+"Ce film est horrible. Je ne l'ai même pas fini.",négatif
+"Ce film est assez moyen. Il n'est ni bon ni mauvais.",neutre
+"Je ne sais pas trop quoi penser de ce film. Il a ses bons et ses mauvais côtés.",neutre
